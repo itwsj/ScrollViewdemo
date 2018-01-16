@@ -1,9 +1,10 @@
-#**自定义ScrollView显示和隐藏header**
+**自定义ScrollView显示和隐藏header**
 
-##效果
+# 效果 #
+
   ![](https://i.imgur.com/mhenIiP.gif)
 
-###实现MyScrollView
+## 实现MyScrollView ##
 
 	  1 package test2.example.com.scrollviewdemo.view;
 	  2 
@@ -113,7 +114,7 @@
 	106     }
 	107 }
 
-###ScrollHeader
+## ScrollHeader ##
 
 	  1 package test2.example.com.scrollviewdemo.view;
 	  2 
